@@ -19,4 +19,4 @@
 
 - Learn programming and learn more stuff
 - Have fun
-- Do sth other than vibe coding hehe
+- Do sth other than vibe coding
